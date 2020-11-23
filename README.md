@@ -34,7 +34,7 @@ Located within this GitHub repository:
 ----------------------------------------------------------------------------------
 <br>
 <br>
-![Fig_1](Resources/movies_query.png)
+![Fig_1](Resources/movies_query.PNG)
 <br>
 <br>
 **Fig. 1:  Movies Query (6,052 Rows)**

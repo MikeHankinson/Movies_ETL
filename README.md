@@ -32,6 +32,11 @@ Located within this GitHub repository:
 <br>
 <br>
 <br>
+----------------------------------------------------------------------------------
+### Appendix of Figures and Tables
+----------------------------------------------------------------------------------
+<br>
+<br>
 ![Fig_1](Resources/movies_query.png)
 <br>
 <br>

@@ -40,7 +40,10 @@ Located within this GitHub repository:
 <br>
 <br>
 <br>
-
+![Fig_2](Resources/ratings_query.PNG)
+<br>
+<br>
+**Fig. 2:  Ratings Query (26,024,289 Rows)**
 <br>
 <br>
 <br>

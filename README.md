@@ -32,9 +32,8 @@ Located within this GitHub repository:
 ----------------------------------------------------------------------------------
 ### Appendix of Figures and Tables
 ----------------------------------------------------------------------------------
-<br>
-<br>
-![Fig_1](Resources/movies_query.PNG)
+
+![Fig_1](Resources/movies_query.png)
 <br>
 <br>
 **Fig. 1:  Movies Query (6,052 Rows)**

@@ -29,9 +29,6 @@ Located within this GitHub repository:
 2. ratings_small.csv (within archive - Copy.zip)  -- The full file, referenced within the Python code, was far too large to post to GitHub.  Therefore, a smaller version was posted to provide an example of the data within.)
 3. wikipedia-movies.json
 
-<br>
-<br>
-<br>
 ----------------------------------------------------------------------------------
 ### Appendix of Figures and Tables
 ----------------------------------------------------------------------------------

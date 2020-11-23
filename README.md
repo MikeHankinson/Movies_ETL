@@ -28,3 +28,21 @@ Located within this GitHub repository:
 1. movies_metadasta.csv (within archive - Copy.zip)
 2. ratings_small.csv (within archive - Copy.zip)  -- The full file, referenced within the Python code, was far too large to post to GitHub.  Therefore, a smaller version was posted to provide an example of the data within.)
 3. wikipedia-movies.json
+
+<br>
+<br>
+<br>
+![Fig_1](Resources/movies_query.png)
+<br>
+<br>
+**Fig. 1:  Movies Query (6,052 Rows)**
+<br>
+<br>
+<br>
+![Fig_2](Resources/ratings_query.png)
+<br>
+<br>
+**Fig. 2:  Ratings Query (26,024,289 Rows**
+<br>
+<br>
+<br>

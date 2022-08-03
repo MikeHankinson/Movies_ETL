@@ -1,7 +1,7 @@
 # Movies - Extract, Transform and Load (ETL)
 
 ## Purpose
-Amazing Prime Video is a platform for streaming movies and TV shows. The project's goal is to develop and algorithm to predict which low budget movies will beome popular, beforehand.  The end goal is to purchase streaming rights at a bargain.   
+Amazing Prime Video is a platform for streaming movies and TV shows. The project's goal is to develop an algorithm to predict which low budget movies will beome popular, beforehand.  The end goal is to purchase streaming rights at a bargain.   
 
 ## Data Sources
 Data was extracted from the following 2 sources:
